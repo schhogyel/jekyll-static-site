@@ -1,0 +1,250 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"maxlength	Attr"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"select",
+				"selectAll"
+			],
+			[
+				"fon",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/cygwin/home/Tsheringde/.bashrc",
+		"/C/Users/Tsheringde/Sites/devdesktop/drupal7/sites/default/modules/recipe_time_formatter/recipe_time_formatter.module",
+		"/C/Users/Tsheringde/Sites/devdesktop/drupal7/sites/default/modules/recipe_time_formatter/recipe_time_formatter.info",
+		"/C/Users/Tsheringde/Sites/devdesktop/drupal7/sites/default/modules/user_warn/user_warn.module",
+		"/C/Users/Tsheringde/Sites/devdesktop/drupal7/sites/default/modules/user_warn/user_warn.info",
+		"/C/Users/Tsheringde/Sites/devdesktop/drupal7/sites/default/modules/first/first.module",
+		"/C/Users/Tsheringde/Sites/devdesktop/drupal7/sites/default/modules/first/first.info",
+		"/C/xampp/htdocs/test/test.php",
+		"/C/Users/Tsheringde/Sites/devdesktop/drupal7/sites/all/themes/zenconde/zencode.info",
+		"/C/Users/Tsheringde/Sites/devdesktop/drupal7/sites/all/themes/zenconde/node.tpl.php",
+		"/C/Sites/drupal-7.43/sites/all/themes/zerod/sass/zerod.styles.scss",
+		"/C/Users/Tsheringde/Sites/devdesktop/drupal7/sites/all/themes/zenconde/js/javascript.js",
+		"/C/Users/Tsheringde/Sites/devdesktop/drupal7/sites/all/themes/zenconde/page.tpl.php",
+		"/C/Users/Tsheringde/Sites/devdesktop/drupal7/sites/all/themes/zenconde/node--article.tpl.php",
+		"/C/xampp/htdocs/test/d3.html",
+		"/C/xampp/htdocs/test/jq.css",
+		"/C/xampp/htdocs/test/learningjs.js",
+		"/C/xampp/htdocs/test/learningjs.html",
+		"/C/Users/Tsheringde/Desktop/basemodules.txt",
+		"/C/Users/Tsheringde/Sites/id_rsa.pub",
+		"/C/Users/Tsheringde/Sites/devdesktop/drupal7/modules/system/page.tpl.php",
+		"/C/Program Files/DevDesktop/php5_5/ext/php_xdebug-2.3.2-5.5-vc11.dll",
+		"/C/Users/Tsheringde/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Tsheringde/Desktop/complete.js",
+		"/C/xampp/htdocs/test/main.css",
+		"/C/xampp/htdocs/test/prototype.js",
+		"/C/xampp/htdocs/test/learnjs.js",
+		"/C/xampp/htdocs/test/learningjs",
+		"/C/Users/Tsheringde/Desktop/Projects/Jscripted/index.html",
+		"/C/Users/Tsheringde/Desktop/Projects/ESix/gulpfile.js",
+		"/C/Users/Tsheringde/Desktop/Projects/Jscripted/learnjs.js",
+		"/C/Users/Tsheringde/Desktop/Projects/ESix/public/es6/test.js",
+		"/C/Users/Tsheringde/Desktop/Projects/ESix/.gitignore",
+		"/C/Users/Tsheringde/Desktop/Projects/ESix/README.md",
+		"/C/Users/Tsheringde/Desktop/Projects/ESix/.babelrc",
+		"/C/Users/Tsheringde/Desktop/Cascading Style Sheets Page Layouts V413HAV/Ex_Files_CSS_Page_Layout/Exercise Files/Chapter_03/03_02/clearing.htm",
+		"/C/Users/Tsheringde/Desktop/Cascading Style Sheets Page Layouts V413HAV/Ex_Files_CSS_Page_Layout/Exercise Files/Chapter_03/03_01/float.htm",
+		"/C/Users/Tsheringde/Desktop/Projects/ESix/gulp.js",
+		"/C/Users/Tsheringde/Desktop/evolve/partial/_footer.ejs",
+		"/C/Users/Tsheringde/Desktop/evolve/index.ejs",
+		"/C/Users/Tsheringde/Desktop/evolve/partial/_header.ejs",
+		"/C/Users/Tsheringde/Desktop/evolve/css/components/_typography.less",
+		"/C/Users/Tsheringde/Desktop/evolve/css/theme.less",
+		"/C/Users/Tsheringde/Desktop/evolve/css/components/_variables.less",
+		"/C/Users/Tsheringde/Desktop/evolve/_harp.json",
+		"/C/Users/Tsheringde/Desktop/evolve/_layout.ejs",
+		"/C/Users/Tsheringde/Desktop/evolve/_data.json",
+		"/C/Users/Tsheringde/Desktop/Code/ch2/ch2-project/css/theme.less",
+		"/C/Users/Tsheringde/Desktop/evolve/www/css/theme.css",
+		"/C/Users/Tsheringde/Desktop/evolveb/index.ejs",
+		"/C/Users/Tsheringde/Desktop/evolveb/layout.ejs",
+		"/C/xampp/htdocs/test/index.html",
+		"/C/Users/Tsheringde/Desktop/evolveb/_data.json",
+		"/C/Users/Tsheringde/Desktop/evolveb/_harp.json",
+		"/C/xampp/htdocs/test/in",
+		"/C/xampp/htdocs/test/main.js",
+		"/C/xampp/htdocs/test/gulpfile.babel.js",
+		"/C/xampp/htdocs/test/hellod3.js",
+		"/C/xampp/htdocs/test/map02.html",
+		"/C/xampp/htdocs/test/learningd3scatterplot.js",
+		"/C/xampp/htdocs/test/learningd3linechart.html",
+		"/C/xampp/htdocs/test/public/es6/test.js",
+		"/C/xampp/htdocs/test/.babelrc",
+		"/C/xampp/htdocs/test/README.md",
+		"/C/xampp/htdocs/test/gulpfile.js",
+		"/C/xampp/htdocs/test/.gitignore"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
