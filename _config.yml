@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Jangchubling
+title: Jangchub Choeling
 email: schyles@gmail.com
 description: An amazing place to be # this means to ignore newlines until "baseurl:"
  
@@ -17,3 +17,4 @@ github_username:  schyles@gmail.com
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
