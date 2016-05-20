@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Jangchub Choeling
+title: Sonam Choegyal
 email: schyles@gmail.com
-description: An amazing place to be # this means to ignore newlines until "baseurl:"
+description: A speck of dust in a cosmic puddle # this means to ignore newlines until "baseurl:"
  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
