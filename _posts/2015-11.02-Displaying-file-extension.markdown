@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Displaying file extension"
-date:   2015-12-05 16:56:25 +0600
+title:  "Displaying file information using Views in Drupal"
+date:   2016-02-20 16:56:25 +0600
 categories: Drupal
 ---
 
-<p>Add image to taxonomy terms</p>
+<h3>In the views</h3>

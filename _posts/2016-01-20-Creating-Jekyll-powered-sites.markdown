@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Creating static website powered by Jekyll on Github Pages"
+title:  "Creating static site powered by Jekyll on Github Pages"
 date:   2016-01-20 
 categories: Jekyll
 ---
-<p>It is simple to setup a static website using Jekyll and host on Github</p>
+<p>Basic steps to setup a static website using Jekyll and host on Github</p>
 <ol>
-	<li> Create a repository in Github</li>
-	<li>Clone your repository in your sites folder. Replace *** with your username</li>
+	<li> Create a repository in Github and name it username.github.io where username is your username</li>
+	<li>Clone your repository in your sites folder. </li>
 	{% highlight ruby %}
-git clone https://github.com/***/***.github.io
+$git clone https://github.com/username/username.github.io
 {% endhighlight %}
 	
 
@@ -25,7 +25,21 @@ gem 'github-pages'
 	</li>
 
 <li>Run bundle install and it will install all gems required by Github pages.</li>
-<li>Generate Jekyll site in your site folder by entering</li>
-<li>The Jekyll site is now ready.</li>
+{% highlight ruby %}
+$bundle install
+{% endhighlight %}
+<li>Generate Jekyll site in your site folder </li>
+{% highlight ruby %}
+$ bundle exec jekyll new . --force
+{% endhighlight %}
+<li>The Jekyll site is now installed locally and can be viewed by typing http://localhost:4000 in the browser.</li>
+<li>After working with your local site you can upload your changes on the GitHub repository by pushing changes.</li>
+
+{% highlight ruby %}
+$git add --all
+$git commit -m "First commit"
+$git push -u origin master
+{% endhighlight %}
+<li>You can view your site at http://username.github.io from your browser.</li>
 
 </ol>
