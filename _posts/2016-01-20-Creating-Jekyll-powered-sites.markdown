@@ -43,3 +43,10 @@ $git push -u origin master
 <li>You can view your site at http://username.github.io from your browser.</li>
 
 </ol>
+
+<p>
+Additional Readings
+<ul>
+<li><a href="https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/">https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/</a></li>
+</ul>
+</p>
