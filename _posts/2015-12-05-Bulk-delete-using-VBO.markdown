@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Bulk Delete using VBO"
 date:   2015-12-05 16:56:25 +0600
 categories: Drupal

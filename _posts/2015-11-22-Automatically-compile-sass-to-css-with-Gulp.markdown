@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Compile Saas to CSS with Gulp"
 date:   2015-11-22
 categories: Gulp

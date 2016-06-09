@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Installing Symfony with Composer"
 date:   2016-02-08 
 categories: Symfony

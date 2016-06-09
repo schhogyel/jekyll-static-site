@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Creating static site powered by Jekyll on Github Pages"
 date:   2016-01-20 
 categories: Jekyll
