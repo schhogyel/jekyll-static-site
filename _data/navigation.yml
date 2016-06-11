@@ -3,5 +3,11 @@ main:
  
   - title: "About"
     url: /about
+  - title: "Blog"
+    url: /categories/blog
+  - title: "Work"
+    url: /work
+  - title: "Tutorial"
+    url: /categories/tutorial
 
   

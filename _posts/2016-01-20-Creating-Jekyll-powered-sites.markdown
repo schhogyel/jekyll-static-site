@@ -2,7 +2,7 @@
 layout: single
 title:  "Creating static site powered by Jekyll on Github Pages"
 date:   2016-01-20 
-categories: Jekyll
+categories: Jekyll, Tutorial
 ---
 <p>Basic steps to setup a static website using Jekyll and host on Github</p>
 <ol>

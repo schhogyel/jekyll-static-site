@@ -2,7 +2,8 @@
 layout: single
 title:  "Compile Saas to CSS with Gulp"
 date:   2015-11-22
-categories: Gulp
+categories: Gulp, Tutorial
+Tags: Gulp, Sass, CSS
 ---
 <h3>Installing gulp</h3>
 <ol>

@@ -2,7 +2,7 @@
 layout: single
 title:  "Bulk Delete using VBO"
 date:   2015-12-05 16:56:25 +0600
-categories: Drupal
+categories: Drupal, Tutorial
 ---
 
 <p>How to delete massive contents or nodes in Drupal?</p>

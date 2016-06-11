@@ -2,7 +2,7 @@
 layout: single
 title:  "Updating Drupal Core and Modules with Drush"
 date:   2015-12-12
-categories: Drupal
+categories: Drupal, Tutorial
 ---
 
 <ol>
