@@ -4,10 +4,10 @@ main:
   - title: "About"
     url: /about
   - title: "Blog"
-    url: /categories/blog
+    url: /categories
   - title: "Work"
     url: /work
   - title: "Tutorial"
-    url: /categories/tutorial
+    url: /categories/#tutorial
 
   

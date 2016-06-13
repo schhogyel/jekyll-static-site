@@ -1,12 +1,11 @@
 ---
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "CC Learning"
+excerpt: "Website for CC Learning"
 header:
-  image: foo-bar-identity.jpg
-  teaser: foo-bar-identity-th.jpg
+  teaser: cclearning.png
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: cclearning.png
     image_alt: "logo"
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"

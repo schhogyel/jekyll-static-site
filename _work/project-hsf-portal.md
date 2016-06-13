@@ -1,12 +1,11 @@
 ---
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "Resource Portal"
+excerpt: "Resource portal for mining industry professional."
 header:
-  image: foo-bar-identity.jpg
-  teaser: foo-bar-identity-th.jpg
+  teaser: hsf.png
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: hsf.png
     image_alt: "logo"
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"

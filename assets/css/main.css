@@ -191,9 +191,10 @@ textarea {
    ========================================================================== */
 body {
   margin: 0;
+  margin-top: 100px;
   padding: 0;
   color: #494e52;
-  font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: "Lora";
   line-height: 1.5; }
   body.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -354,7 +355,7 @@ figure {
 figcaption {
   margin-bottom: 0.5em;
   color: #777a7d;
-  font-family: Georgia, Times, serif;
+  font-family: "Montserrat";
   font-size: 0.75em; }
   figcaption a {
     color: inherit;
@@ -729,7 +730,7 @@ a.reversefootnote {
 table {
   margin-bottom: 1em;
   width: 100%;
-  font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: "Lora";
   font-size: 0.75em;
   border-collapse: collapse;
   border: 1px solid #bdc1c4; }
@@ -868,7 +869,7 @@ tr, td, th {
 .notice {
   margin: 2em 0 !important;
   padding: 1em;
-  font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: "Lora";
   font-size: 0.75em !important;
   text-indent: initial;
   background-color: #f8f9f9;
@@ -898,7 +899,7 @@ tr, td, th {
 .notice--primary {
   margin: 2em 0 !important;
   padding: 1em;
-  font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: "Lora";
   font-size: 0.75em !important;
   text-indent: initial;
   background-color: #f2f3f3;
@@ -928,7 +929,7 @@ tr, td, th {
 .notice--info {
   margin: 2em 0 !important;
   padding: 1em;
-  font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: "Lora";
   font-size: 0.75em !important;
   text-indent: initial;
   background-color: #eef7fa;
@@ -958,7 +959,7 @@ tr, td, th {
 .notice--warning {
   margin: 2em 0 !important;
   padding: 1em;
-  font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: "Lora";
   font-size: 0.75em !important;
   text-indent: initial;
   background-color: #fef4e6;
@@ -988,7 +989,7 @@ tr, td, th {
 .notice--success {
   margin: 2em 0 !important;
   padding: 1em;
-  font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: "Lora";
   font-size: 0.75em !important;
   text-indent: initial;
   background-color: #eff9ef;
@@ -1018,7 +1019,7 @@ tr, td, th {
 .notice--danger {
   margin: 2em 0 !important;
   padding: 1em;
-  font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: "Lora";
   font-size: 0.75em !important;
   text-indent: initial;
   background-color: #fdefef;
@@ -1048,12 +1049,13 @@ tr, td, th {
    MASTHEAD
    ========================================================================== */
 .masthead {
-  position: relative;
-  border-bottom: 1px solid #f2f3f3;
+  position: fixed;
+  top: 0;
+  width: 100%;
   animation: intro 0.3s both;
   animation-delay: 0.15s;
   z-index: 20;
-  background: cadetblue; }
+  background: #568f91; }
   .masthead__inner-wrap {
     max-width: 1024px;
     margin-left: auto;
@@ -1063,7 +1065,7 @@ tr, td, th {
     font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
     font-weight: 700;
     text-transform: uppercase;
-    background: inherit; }
+    background: transparent; }
     .masthead__inner-wrap:after {
       content: " ";
       display: block;
@@ -1098,6 +1100,8 @@ tr, td, th {
   white-space: nowrap; }
   .masthead__menu-item--lg {
     font-size: 1em; }
+  .masthead__menu-item a:hover {
+    text-decoration: none; }
 
 /* ==========================================================================
    NAVIGATION
@@ -1451,7 +1455,7 @@ tr, td, th {
       text-decoration: underline; }
 
 .page__footer-copyright {
-  font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: "Lora";
   font-size: 0.6875em; }
   @media (min-width: 64em) {
     .page__footer-copyright {
@@ -2143,7 +2147,7 @@ select:focus {
     margin-top: -0.5em; }
 
 .page__lead {
-  font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: "Lora";
   font-size: 1.25em; }
 
 .page__content {
@@ -2226,7 +2230,7 @@ select:focus {
   margin: 0 auto;
   padding: 2px 5px;
   color: #fff;
-  font-family: Georgia, Times, serif;
+  font-family: "Montserrat";
   font-size: 0.6875em;
   background: #000;
   text-align: right;

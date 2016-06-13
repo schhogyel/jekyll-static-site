@@ -1,12 +1,11 @@
 ---
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "School Bulletin"
+excerpt: "This is the school website"
 header:
-  image: foo-bar-identity.jpg
-  teaser: foo-bar-identity-th.jpg
+  teaser: yadi.png
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: yadi.png
     image_alt: "logo"
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"

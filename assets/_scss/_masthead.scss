@@ -3,12 +3,13 @@
    ========================================================================== */
 
 .masthead {
-  position: relative;
-  border-bottom: 1px solid $border-color;
+  position: fixed;
+  top:0;
+  width:100%;
   animation: intro 0.3s both;
   animation-delay: 0.15s;
   z-index: 20;
-  background:cadetblue;
+  background:rgb(86, 143, 145);
 
   &__inner-wrap {
     @include container;
@@ -17,7 +18,7 @@
     font-family: $sans-serif-narrow;
     font-weight: 700;
     text-transform: uppercase;
-    background:inherit;
+    background:transparent;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -54,5 +55,8 @@ background:inherit;
 
   &--lg {
     font-size: $type-size-5;
+  }
+  a:hover{
+    text-decoration:none;
   }
 }
