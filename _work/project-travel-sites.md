@@ -9,7 +9,7 @@ sidebar:
     image_alt: "logo"
     text: "Developer"
   - title: "Responsibilities"
-    text: "Development"
+    text: "Site Development and Custom Modules"
 gallery:
   - url: unsplash-gallery-image-1.jpg
     image_path: unsplash-gallery-image-1-th.jpg

@@ -7,9 +7,9 @@ sidebar:
   - title: "Role"
     image: communityweb.png
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
+    text: "Developer"
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Site Build, Theme and Customization"
 gallery:
   - url: unsplash-gallery-image-1.jpg
     image_path: unsplash-gallery-image-1-th.jpg
