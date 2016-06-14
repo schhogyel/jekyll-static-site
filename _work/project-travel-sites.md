@@ -22,4 +22,12 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-The requirement was fairly simple, 
+The client wanted to advertise many of their tour packages and travel news and stories with online
+booking. The site features many category of tour packages and tour booking form. 
+Features module
+was used to update sites from test environment to development environment. Adhering strictly to
+Drupal Coding Standards, page templates and .tpl files were developed.
+
+Built to specification and optimized
+for mobile devices. JQuery plugins and scripts were used to enhance slideshow and interactivity.
+Form API was used to customize forms.

@@ -22,8 +22,14 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+I was responsible for developing the site ground up to the specifications provided by the client. Starting
+from theme development to site building, the page templates and some custom modules were
+developed . Issues and tickets were handled in JIRA. 
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+Agile (SCRUM) was the preferred development
+methodology treating each features request from the client as a story. Taxonomy was heavily deployed
+for document categorization.
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+ Contextual filter and relationship in views was used to serve individual
+documents with details of the documents. User login and requesting access were customized to clients
+requirement. Sub theme based on Omega 4 (Drupal contributed theme) was developed to the specification.
