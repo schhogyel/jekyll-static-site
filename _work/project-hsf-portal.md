@@ -22,6 +22,10 @@ gallery:
     alt: "placeholder image 3"
 ---
 
+This was one of the straightforward project with few requirements. The site would serve up relevant and downloadable resources related to the mining industry. Users can request for access, which will be reviewed and granted by the site administrator.
+
+The site functionality was achieved by selecting the right modules for the job. Taxonomy for resource category, views to render appropriate documents based on context and some custom code for the flow and redirection of pages. Contextual filter and relationship in views can do pretty amazing and advanced stuff and has rightly been included in Drupal 8 core!
+
 I was responsible for developing the site ground up to the specifications provided by the client. Starting
 from theme development to site building, the page templates and some custom modules were
 developed . Issues and tickets were handled in JIRA. 
